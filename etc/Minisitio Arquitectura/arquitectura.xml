@@ -1,0 +1,281 @@
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by VGN-SR250 (EMBRACE) -->
+<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by  () -->
+<!--dos guiones medios en nboton son un separador-->
+<!--uno o dos separadores solamente. entre 6 y 9 botones. No menos de 5 en el peor caso-->
+<!--xx en la ruta hace que se vea el texto de descripción-->
+<!--xx en adicional hace que se NO se vea el boton adicional-->
+<!--xx en ruta adicional hace que se vea el texto descripcion-->
+<!--los colores de gradiente va con "0x" y el codigo de color en esadecimal (cero x)-->
+<data>
+	<todo_cap0 nombre="">
+		<cap0>
+			<nboton>INGRESO</nboton>
+			<ruta>http://www.ub.edu.ar/inscripcion/ingreso/ingreso.php</ruta>
+			<descripcion><![CDATA[<body class="texto">
+<p class="bluetext">Curos de Ingreso</p>
+<p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br />
+<p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br /> <p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br />
+<p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br /> ]]></descripcion>
+			<inicio_gradiente>0xFF952B</inicio_gradiente>
+			<fin_gradiente>0xD56A00</fin_gradiente>
+		</cap0>
+		<cap0>
+			<nboton>PLAN DE ESTUDIOS</nboton>
+			<ruta>http://www.ub.edu.ar/inscripcion2012/carreras_de_grado/201_arquitectura/contenidos_minimos.pdf</ruta>
+			<descripcion><![CDATA[<body class="texto">
+<p class="bluetext">Modalidad de papadad</p>
+<p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br />
+]]></descripcion>
+			<inicio_gradiente>0x42B7FD</inicio_gradiente>
+			<fin_gradiente>0x4E74CB</fin_gradiente>
+		</cap0>
+		<cap0>
+			<nboton>CALENDARIO ACADÉMICO</nboton>
+			<ruta>http://www.ub.edu.ar/academico/Calendario_academico_actual.pdf</ruta>
+			<descripcion><![CDATA[--
+]]></descripcion>
+			<inicio_gradiente>0x42B7FD</inicio_gradiente>
+			<fin_gradiente>0x4E74CB</fin_gradiente>
+		</cap0>
+		<cap0>
+			<nboton>BLOG DE TRABAJOS</nboton>
+			<ruta>http://talleravb.blogspot.com.ar/2014/07/entrega-final-tfc.html</ruta>
+			<descripcion><![CDATA[--
+]]></descripcion>
+			<inicio_gradiente>0x42B7FD</inicio_gradiente>
+			<fin_gradiente>0x4E74CB</fin_gradiente>
+		</cap0>
+		<cap0>
+			<nboton>DIPLOMATURAS</nboton>
+			<ruta>http://www.ub.edu.ar/inscripcion/carreras_de_grado/201_arquitectura/Diplomaturas_Arquitectura.html</ruta>
+			<descripcion><![CDATA[--
+]]></descripcion>
+			<inicio_gradiente>0x42B7FD</inicio_gradiente>
+			<fin_gradiente>0x4E74CB</fin_gradiente>
+		</cap0>
+		<cap0>
+			<nboton>NOVEDADES</nboton>
+			<ruta>novedades_slide.swf</ruta>
+			<descripcion><![CDATA[<body class="texto">
+<p class="bluetext">Otro texto</p>
+<p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br /><p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br /><p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br />
+]]></descripcion>
+			<inicio_gradiente>0x42B7FD</inicio_gradiente>
+			<fin_gradiente>0x4E74CB</fin_gradiente>
+		</cap0>
+		<cap0>
+			<nboton>VIDEOS</nboton>
+			<ruta>arquitectura.flv</ruta>
+			<descripcion><![CDATA[<p><b>Entrevistada</b>: Agustina Galli<br />
+“En el 2004 tuve la posibilidad de viajar a Torino, gracias al Doble Diploma; estuve un año allí y lo recomiendo como experiencia de vida.”</p>
+]]></descripcion>
+			<inicio_gradiente>0x42B7FD</inicio_gradiente>
+			<fin_gradiente>0x4E74CB</fin_gradiente>
+		</cap0>
+		
+	
+		
+	
+		<cap0>
+			<nboton>DOCENTES DE LA FACULTAD</nboton>
+			<ruta>xx</ruta>
+			<descripcion><![CDATA[<body>
+<span class="bluetext">Docentes de la Facultad</span><br /><p>
+ABAD BAUSSET, Raúl - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+ABADES, Irma Soledad - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+ALBUIXECH, Cynthia Viviana - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+ALONSO, Maria Marcela Marcela - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Alonso_Marcela.pdf">Ver currículum</a></span> <br />
+ARCE, Raquel Ines - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Arce.pdf">Ver currículum</a></span> <br />
+ARIAS INCOLLÁ, Maria Delas Nieves - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/mincolla.pdf">Ver currículum</a></span> <br /> 
+ASIN, Ricardo Cesar - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Asin_Ricardo.pdf">Ver currículum</a></span> <br /> 
+BAIRES, María Jesús - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+BARBARIA, Sergio Hernan Hernan - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Sergio_Barbaria.pdf">Ver currículum</a></span> <br />
+BARGIELA, Beatriz - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Bargiela_Beatriz.pdf">Ver currículum</a></span> <br /> 
+BARROS VINHOZA LEITE, Daniel - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+BATTAGLIA, Marisa Alejandra Alejandra - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Battaglia_Marisa.pdf">Ver currículum</a></span> <br />
+BECERRA, Dardo Hector - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Becerra_Dardo.pdf">Ver currículum</a></span> <br />
+BERNASCONI, Gabriel - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Bernasconi.pdf">Ver currículum</a></span> <br /> 
+BERTONI, Samuel David - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Bertoni_Samuel.pdf">Ver currículum</a></span> <br />
+BETTI, María Del Rosario - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Beti_Rosario.pdf">Ver currículum</a></span> <br />
+BIANCO, Fabian Eugenio - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Bianco_Fabian.pdf">Ver currículum</a></span> <br />
+BONVECCHI, Liliana Telma - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Bonvecchi.pdf">Ver currículum</a></span> <br />
+BOZZANO, Jorge Nestor - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Jorge_Bozzano.pdf">Ver currículum</a></span> <br />
+BRIGNONE, Mabel Clara - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Brignone_Mabel.pdf">Ver currículum</a></span> <br />
+BUACAR, Cristián Alejandro - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+BUSTOS, Haydee Otilia - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Bustos_Haydee.pdf">Ver currículum</a></span> <br />
+CALLE, Maria Laura - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Calle_Maria.pdf">Ver currículum</a></span> <br />
+CASAL, Stella Maris Nélida - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Casal_Stella_Maris.pdf">Ver currículum</a></span> <br /> 
+CASTRO, Mario Enrique Enrique - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Castro_Mario.pdf">Ver currículum</a></span> <br />
+CHUGAR ROJAS, Raul Enrique Enrique - <span><a class="texto_neg" href="#">Ver currículum</a></span> <br />
+CONSTANTINIDIS, Bárbara Rita - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Constantinidis_Barbara.pdf">Ver currículum</a></span> <br />
+CRISTOFANI, Guillermo - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Cristofani_Guillermo.pdf">Ver currículum</a></span> <br /> 
+DE SOUZA, Juan - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/DeSouza_Juan.pdf">Ver currículum</a></span> <br /> 
+DEL BROCCO, Susana - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/delbrocco.pdf">Ver currículum</a></span> <br /> 
+DEL VALLE, Luis Andres - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+DELBENE, Claudio Alberto - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Delbene_Claudio.pdf">Ver currículum</a></span> <br />
+DI LUCA, Santiago Antonio - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/DiLuca_Santiago.pdf">Ver currículum</a></span> <br />
+DI RISIO, Roxana Laura - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/DiRisio_Roxana.pdf">Ver currículum</a></span> <br />
+DIEGO, Rosa Angela - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Diego_Rosa.pdf">Ver currículum</a></span> <br />
+DIEZ, Gloria Susana - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Diez_Gloria.pdf">Ver currículum</a></span> <br />
+D´ORSI, Paula Mariana - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Dorsi_Paula.pdf">Ver currículum</a></span> <br />
+FAMÁ, Orlando Silvestre - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+FERNÁNDEZ, Mónica Ines - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Fernandez_Monica.pdf">Ver currículum</a></span> <br />
+FERNANDEZ ROJAS, Ricardo Cesar - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/fernandezrojas.pdf">Ver currículum</a></span> <br />
+FORJAN, María De Los Angeles - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Forjan_Maria.pdf">Ver currículum</a></span> <br />
+FRIGIDI, Pablo Alberto - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+GARABIETA, Leonardo - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+GIMÉNEZ, Marcela María - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Gimenez_Marcela.pdf">Ver currículum</a></span> <br />
+GONZALEZ MENDEZ, Maria Cecilia - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Gonzalez_Mendez.pdf">Ver currículum</a></span> <br />
+GRANERO, Adriana Edith - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Granero_Adriana.pdf">Ver currículum</a></span> <br />
+GUSTAVINO, Patricia Silvia - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+HERNANDEZ, Analía Mirtha - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+HERNANDEZ, Oscar Horacio - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Hernandez_Oscar.pdf">Ver currículum</a></span> <br />
+HOUGASSIAN, Eduardo - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Hougassian_Eduardo.pdf">Ver currículum</a></span> <br /> 
+JONES, Alan Christian - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+JONES, Christopher Ian - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+KINA, Ricardo - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Kina_Ricardo.pdf">Ver currículum</a></span> <br /> 
+LABONIA, Jorge Alejandro - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+LEVERATTO, María José - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Leveratto.pdf">Ver currículum</a></span> <br />
+LINERO MACE, Santiago Martin - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+LINIADO, Myrna Elena - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+LLOBERAS, Jose Luis Luis - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+LOPEZ, Walter Roberto - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/wlopez.pdf">Ver currículum</a></span> <br />
+LÓPEZ MAGLIOLO, Cecilia - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/clopezmagliolo.pdf">Ver currículum</a></span> <br /> 
+LOPEZ OVENZA, Facundo Ariel - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+LOREDO ARROYO, Pedro Daniel - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/loredoarroyo.pdf">Ver currículum</a></span> <br />
+LOZANO, Santiago Alberto - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Lozano_Santiago.pdf">Ver currículum</a></span> <br />
+MACRI, Waldo Christian - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Macri.pdf">Ver currículum</a></span> <br />
+MAESTROJUAN DEL VILLAR, Javier - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Maestrojuan_Javier.pdf">Ver currículum</a></span> <br /> 
+MARINO, Federico Eugenio - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+MARTIN, Marcela Alejandra - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Martin_Marcela.pdf">Ver currículum</a></span> <br />
+MARTÍNEZ NESPRAL, Fernando Luis - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Martinez_Nespral.pdf">Ver currículum</a></span> <br />
+MEITES, Silvina Graciela - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Meites_Silvina.pdf">Ver currículum</a></span> <br />
+MELE, Jorge Salvador - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Mele.pdf">Ver currículum</a></span> <br />
+MIÑO, Santiago Ivan - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Mino_Santiago.pdf">Ver currículum</a></span> <br />
+NOSIGLIA, María Antonia - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Nosiglia.pdf">Ver currículum</a></span> <br />
+OETTINGER, Nicolas Michael - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/noettinger.pdf">Ver currículum</a></span> <br />
+ORDUNA, Martín Blas - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/morduna.pdf">Ver currículum</a></span> <br />
+OTERO, Maria De Los Angeles Angeles - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+OTERO, Maria De Los Angeles - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+PANTUSO, Mabel Irene - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Pantuso.pdf">Ver currículum</a></span> <br />
+PEREZ LOSADA, Fernando Antonio - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Perez_Losada_Fernando.pdf">Ver currículum</a></span> <br />
+PERROTTA GUTIERREZ, Fernando - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Perrota.pdf">Ver currículum</a></span> <br /> 
+PERROTTA GUTIERREZ, Silvina - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+PITTO TROZZOLI, Mabel - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Pitto_Mabel.pdf">Ver currículum</a></span> <br /> 
+POLIZZA, Hernán - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+QUARTINO BAZA, Antonio Gustavo - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+QUIROGA, Alfredo Alejandro Ezequiel - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+QUIROGA, Carolina Beatriz Beatriz - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Quiroga.pdf">Ver currículum</a></span> <br />
+RAFFAGLIO PIÑERA, Laura Elena - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Raffaglio.pdf">Ver currículum</a></span> <br /> 
+RENIS, Susana Maria Elvira - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+ROMANELLO, Laura Ines - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+ROMERO, Ariana Lidia - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Romero_Ariadna.pdf">Ver currículum</a></span> <br />
+ROMERO, Sabrina Mariel - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Romero_sabrina.pdf">Ver currículum</a></span> <br />
+RUBBO, Sebastian Ariel - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Rubbo_Sebastian.pdf">Ver currículum</a></span> <br />
+RUIZ DE GOPEGUI, Gervasio - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Gopegui.pdf">Ver currículum</a></span> <br /> 
+SAGUIR, Silvina Marisa - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Saguir.pdf">Ver currículum</a></span> <br />
+SCHMIDT, Gustavo Martin - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Schimidt.pdf">Ver currículum</a></span> <br />
+SCHOLLAERT, Maria Martha - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Schollaert_Maria.pdf">Ver currículum</a></span> <br />
+SCROFANI, Sandra Patricia - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Scrofani_Sandra.pdf">Ver currículum</a></span> <br />
+SERRA, Vanina Paula - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+SIROLLI, Victor Raul - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/sirolli.pdf">Ver currículum</a></span> <br />
+SORRIBES, Virginia Noelia - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Sorribes_Virginia.pdf">Ver currículum</a></span> <br />
+TECCHIA, Antonio - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Tecchia.pdf">Ver currículum</a></span> <br /> 
+TEIXEIRA, Luis Carlos - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Teixeira.pdf">Ver currículum</a></span> <br />
+TORRES, Lidia Mónica Mónica - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Torres_Lidia.pdf">Ver currículum</a></span> <br />
+TOSSI, Mercedes - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+TRABUCCO, Agustin - <span><a class="xxx" href="#">Ver currículum</a></span> <br /> 
+TRABUCCO, Juan - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Trabucco_Juan.pdf">Ver currículum</a></span> <br /> 
+TROTTA, Gabriela Susana - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Trotta_Gabriela.pdf">Ver currículum</a></span> <br />
+VACA BONONATO, Alejandro Esteban - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Vaca_Bononato.pdf">Ver currículum</a></span> <br />
+VARDE, Monica Isabel - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Varde_Monica.pdf ">Ver currículum</a></span> <br />
+VERDAGUER, Fernando Osvaldo - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Verdaguer_Fernando.pdf">Ver currículum</a></span> <br />
+VIDAKOVICH, Liliana Emilia - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/vidakovich.pdf">Ver currículum</a></span> <br />
+VIGLINO, Gabriela Alejandra - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+VOGET, Gustavo Adolfo - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+ZALAZAR, Maria Silvina - <span><a class="texto_neg" href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/sintesis_curriculares/Zalazar_Maria.pdf">Ver currículum</a></span> <br />
+ZOYA, Eleonora - <span><a class="xxx" href="#">Ver currículum</a></span> <br />
+
+</p>
+
+</body>
+</html>]]></descripcion>
+			<inicio_gradiente>0x42B7FD</inicio_gradiente>
+			<fin_gradiente>0x4E74CB</fin_gradiente>
+		</cap0>
+		
+		
+		
+		
+	
+		
+		
+		<cap0>
+			<nboton>--</nboton>
+			<ruta>--</ruta>
+			<descripcion><![CDATA[--
+]]></descripcion>
+			<inicio_gradiente>--</inicio_gradiente>
+			<fin_gradiente>--</fin_gradiente>
+		</cap0>
+		<cap0>
+			<nboton>CONTACTO</nboton>
+			<ruta>http://inscripciones.ub.edu.ar/carreras-universitarias/micrositio</ruta>
+			<descripcion><![CDATA[--]]></descripcion>
+			<inicio_gradiente>0x42B7FD</inicio_gradiente>
+			<fin_gradiente>0x4E74CB</fin_gradiente>
+		</cap0>
+	</todo_cap0>
+	<todo_cap1 rutadeabajo="">
+		<cap1>
+			<adicional>Intro (esta palabra no se ve)</adicional>
+			<ruta>intro.swf</ruta>
+			<descripcion><![CDATA[--]]></descripcion>
+		</cap1>
+		<cap1>
+			<adicional>Acreditación de CONEAU Nº 180/09</adicional>
+			<ruta>xx</ruta>
+			<descripcion><![CDATA[Acreditación de CONEAU Nº 180/09 (2009-2014)]]></descripcion>
+		</cap1>
+		<cap1>
+			<adicional>xx</adicional>
+			<ruta>xx</ruta>
+			<descripcion><![CDATA[<body class="texto">
+<p class="bluetext">Textoo adicional 2</p>
+<p>•	El alumno establecerá su cronograma académico al seleccionar el orden de las materias a cursar.<br />
+•	Podrá ingresar al comienzo de cada trimestre (marzo o abril, junio y septiembre).<br />
+•	La currícula está compuesta por un área de estudios principal, un área de estudios secundaria y un área de metodología de la investigación.<br />
+]]></descripcion>
+		</cap1>
+	</todo_cap1>
+	<minificha>
+		<datos>
+			<codigo>201</codigo>
+			<carrera>Arquitectura</carrera>
+			<final>Arquitecto</final>
+			<intermedio>Asistente en Diseño Arquitectónico</intermedio>
+			<modalidad>Presencial</modalidad>
+			<extension>5 y 1/2 años</extension>
+			<materias>57</materias>
+			<manana>SI</manana>
+			<tarde>NO</tarde>
+			<noche>SI</noche>
+		</datos>
+	</minificha>
+</data>

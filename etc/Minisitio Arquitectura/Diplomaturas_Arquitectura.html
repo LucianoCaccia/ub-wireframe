@@ -1,0 +1,303 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Diplomaturas Arquitectura - UB">
+	<meta name="keywords" content="Diplomaturas Arquitectura - UB">
+   	<title>Diplomaturas Arquitectura - UB</title>
+	<script src="http://ub.edu.ar/js/jquery.min.js"></script>
+	<style>
+body {
+  margin-top: 10px;
+  
+  background-color: #16264B;
+}
+	*{
+		font-family: Arial,Verdana;
+		color:#000;
+	}
+	#mainContainer{
+		width:960px;
+		margin:0 auto;
+		  background-color: #fff;
+	}	
+	#mainContainerCont{
+		width:810px;
+		margin:0 auto;
+	}
+	#header{
+	display:block;
+	width:960px;
+	height:120px;
+    background-image: url("imagenes/headerDiplomaturasArquitectura.jpg");
+	 
+	}
+	#mainContainer ul{
+		list-style-type:none;
+	}
+	#mainContainer ul a{ 
+  margin: 0px;
+  height: 315px;
+  width: 350px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-style: normal;
+  line-height: 17px;
+  font-weight: bold;
+  font-variant: normal;
+  text-transform: none;
+  color: #666;
+  letter-spacing: normal;
+  text-align: left;
+  vertical-align: top;
+  word-spacing: normal;
+  white-space: normal;
+  padding-top: 5px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+	text-decoration:none;
+	}	
+	#mainContainer ul a:hover{ 
+		color: #eb5a0b;
+	}
+	#mainContainer ul li{
+		margin-bottom:15px;
+	}
+
+	#IdFlyer01{ display:none;}
+	#IdFlyer02{ display:none;}
+	#IdFlyer03{ display:none;}	
+	#IdFlyer04{ display:none;}
+
+	#flyersContainer{
+		width:100%;
+
+
+	
+	}
+	.fCont{
+			padding-top:25px;
+		padding-bottom:25px;
+	
+	}
+	h1{
+		color:#33549b;
+	
+	}
+	
+	h2{
+	color:#666;
+	text-align:center;
+	}
+	h4{
+	color:#000;
+
+	}
+	
+	#IdFlyer04 img{
+	border:0px;
+	display:block;
+	margin:0 auto;
+	}
+
+	.titvideo{
+	color: #eb5a0b;
+	text-decoration:underline;
+	}
+	
+
+	
+	ul li{
+		color:#666;
+	
+	}
+	
+	.orangeClass {
+		color:#eb5a0b;
+	}
+	.orangeClass:hover {
+		color:#33549b;
+	}
+	
+	</style>
+
+	
+	
+	
+</head>
+<body>
+	<div id="mainContainer">
+	<div id="header"></div>
+	
+	
+	<div id="mainContainerCont">
+	<h1 style="margin-bottom:15px;">Diplomaturas en la Facultad de Arquitectura de la Universidad de Belgrano</h1>
+	<hr style="border: solid 1px #eb5a0b;">
+	<br/>
+	
+	
+	
+	
+	
+	<ul>	
+			<li><a id="btn01" onclick="alertFunction('IdFlyer01')"  href="#">> Diplomatura en Diseño Arquitectónico</a></li>
+							<ul>
+							<li><a id="btn04" onclick="alertFunction('IdFlyer04')" href="#">> Videos Informativos de la Diplomatura en Diseño Arquitectónico</a></li>		
+							</ul>
+			<li><a id="btn02" onclick="alertFunction('IdFlyer02')" href="#">> Diplomatura en Sistemas de Información Geográfica</a></li>
+			<!-- li>SEMINARIO "Sustentabilidad y Arquitectura"- 18/03 19:30h <a id="btn05" href="http://www.ub.edu.ar/agenda/area_1.htm">Ver Información</a></li -->
+			<li><a id="btn03" onclick="alertFunction('IdFlyer03')" href="#">> Diplomatura en Arquitectura Integral Sustentable</a></li>
+	</ul>
+		<br/>
+		<hr style="border: solid 1px #eb5a0b;">
+		<br/>
+	<!-- a href="http://www.ub.edu.ar/inscripcion/carreras_de_grado/201_arquitectura/Flyer_Diplomatura_Dis_Arquitectonico.pdf">
+	
+	<img style="width:960px; display:block; margin: 0 auto;" src="imagenes/Flyer_Diplomatura_Dis_Arquitectonico.jpg" /></a -->
+	
+	
+	<div id="flyersContainer">
+			<div class="fCont" id="IdFlyer01">
+			<h2>Diplomatura en Diseño Arquitectónico</h2>
+			<h4><strong>Informes e Inscripción:</strong> (54-11) 4788-5400, int 3500/3501 - <a class="orangeClass" href="mailto:info.posgrados@ub.edu.ar">info.posgrados@ub.edu.ar</a></h4>
+			<img style="width:800px; display:block; margin: 0 auto; border:solid 1px #fff;" src="imagenes/Flyer_Diplomatura_Dis_Arquitectonico.jpg">
+			</div>
+			
+			
+			<div class="fCont" id="IdFlyer02">
+			<h2>Diplomatura en Sistemas de Información Geográfica</h2>
+			<h4><strong>Informes e Inscripción:</strong> (54-11) 4788-5400, int 3500/3501 - <a class="orangeClass" href="mailto:info.posgrados@ub.edu.ar">info.posgrados@ub.edu.ar</a></h4>
+			<img style="width:800px; display:block; margin: 0 auto; border:solid 1px #fff;" src="imagenes/Flyer_Diplomatura_Sis_Inf_Geografica.jpg">
+			</div>
+			
+			
+			<div  class="fCont" id="IdFlyer03">
+			<h2>Diplomatura en Arquitectura Integral Sustentable</h2>
+			<h4><strong>Informes e Inscripción:</strong> Dpto. de Estudios de Posgrado y Educación Continua (54-11) 4393-5588 - 
+			<a class="orangeClass" href="mailto:agustina.galli@comunidad.ub.edu.ar">agustina.galli@comunidad.ub.edu.ar</a> <br>
+			<a class="orangeClass" href="mailto:educacion.continua@ub.edu.ar">educacion.continua@ub.edu.ar</a>
+			
+			
+			</h4>
+			<img style="width:800px; display:block; margin: 0 auto; border:solid 1px #fff;" src="imagenes/Flyer_Diplomatura_Arq_Integral_Sustentable.jpg">
+			</div>
+			
+			<div  class="fCont" id="IdFlyer04">
+			<h2>Videos - Diplomatura en Diseño Arquitectónico</h2>
+			<h4>El equipo docente nos cuenta un poco más sobre la Diplomatura en Diseño Arquitectónico <br/>sen la Universidad de Belgrano</h4>
+			
+			
+			<hr/>
+			
+			<h4 class="titvideo">Fernando Burone</h4>
+			<a href="https://www.youtube.com/watch?v=7NbpE8JbQ-Q">
+			<img  width="641" src="http://www.ub.edu.ar/inscripcion/carreras_de_grado/201_arquitectura/imagenes/vid01.jpg">
+			</a>
+
+			 <br/><hr/>
+			 
+			 <h4 class="titvideo">Emilio Schargrodsky</h4>
+			<a href="https://www.youtube.com/watch?v=EtimepoO1TU">
+			<img src="http://www.ub.edu.ar/inscripcion/carreras_de_grado/201_arquitectura/imagenes/vid02.jpg">
+			</a>
+			 
+			 <br/><hr/>
+			 					 
+			 <h4 class="titvideo">Gonzalo Suárez Aboy </h4>
+			<a href="https://www.youtube.com/watch?v=33bfUWlkKzc">
+			<img src="http://www.ub.edu.ar/inscripcion/carreras_de_grado/201_arquitectura/imagenes/vid03.jpg">
+			</a>
+			 			 
+			 <br/><hr/>
+							 
+			 <h4 class="titvideo">Pablo Pschepiurca y Rodrigo Grassi</h4>
+			<a href="https://www.youtube.com/watch?v=U2VM-gXmwsw">
+			<img src="http://www.ub.edu.ar/inscripcion/carreras_de_grado/201_arquitectura/imagenes/vid04.jpg">
+			</a>
+			 			 
+			 
+			 <br/><hr/>			 
+			 				 
+			 <h4 class="titvideo">Augusto Penedo</h4>
+			<a href="https://www.youtube.com/watch?v=bbJ2Q0o9LR4">
+			<img src="http://www.ub.edu.ar/inscripcion/carreras_de_grado/201_arquitectura/imagenes/vid05.jpg">
+			</a>
+			 			 
+			 
+			
+			</div>
+	</div>
+	
+	
+	
+	</div>
+	</div>	
+		
+		<script>
+		
+		function alertFunction(e){
+		
+				var contenedorDelete = document.getElementById("flyersContainer"); 
+
+
+  if ( navigator.userAgent.indexOf("MSIE")>0 ) {
+  // run custom code for Internet Explorer.
+	/*	 var contenedorDelete3 =  document.querySelectorAll('.fCont');*/
+			/*	for(var i=0; i<contenedorDelete3.length; i++) {
+				  var parrafo = contenedorDelete3[i];
+						parrafo.style.display='none';
+						
+
+				}*/
+			/*alert(contenedorDelete3);*/		
+
+	
+				id01=document.getElementById("IdFlyer01");
+				id01.style.display='none';
+				id02=document.getElementById("IdFlyer02");
+				id02.style.display='none';
+				id03=document.getElementById("IdFlyer03");
+				id03.style.display='none';
+				id04=document.getElementById("IdFlyer04");
+				id04.style.display='none';
+
+				iddetect = e;		
+				varcheck=document.getElementById(iddetect);
+				varcheck.style.display='block';
+
+
+				
+				/*varcheck=document.getElementById("IdFlyer01");
+				varcheck.style.display='block';
+				varcheck=document.getElementById("IdFlyer02");
+				varcheck.style.display='block';			
+				varcheck=document.getElementById("IdFlyer03");
+				varcheck.style.display='block';			
+				varcheck=document.getElementById("IdFlyer04");
+				*/	
+				/*varcheck.style.display='block';			*/
+				
+     } else{
+
+				
+				var contenedorDelete2 = document.getElementsByClassName("fCont"); 				
+				for(var i=0; i<contenedorDelete2.length; i++) {
+				  var parrafo = contenedorDelete2[i];
+						parrafo.style.display='none';
+				}
+								
+				iddetect = e;								
+				varcheck=document.getElementById(iddetect);
+				varcheck.style.display='block';
+		
+			
+			}
+		}
+		
+	
+	</script>
+
+	
+</body>
+</html>	

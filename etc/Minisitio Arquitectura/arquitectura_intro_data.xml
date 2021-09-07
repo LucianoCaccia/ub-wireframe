@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by  () -->
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by VGN-SR250 (EMBRACE) -->
+<!--en tipo puede ir: "fundido", "horizontal", "vertical","ninguno"-->
+<slideshow tipo="fundido">
+	<image src="arquitectura_img_intro/arq_4.jpg" desc=" Arquitectura"/>
+	<image src="arquitectura_img_intro/arq_3.jpg" desc=" Arquitectura"/>
+</slideshow>

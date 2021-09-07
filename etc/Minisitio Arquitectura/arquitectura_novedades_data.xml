@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by VGN-SR250 (EMBRACE) -->
+<!--en tipo puede ir: "fundido", "horizontal", "vertical",-->
+<slideshow tipo="vertical">
+	<image src="arquitectura_img_novedades/1.jpg" desc="Muestra en Campana" ampliacion='Se inauguró la muestra "Otras miradas desde Campana", conformada por trabajos realizados por los alumnos de la Facultad de Arquitectura y Urbanismo de la Universidad de Belgrano, en el Club Esso de esa localidad. ' link="150 Convenios con Empresas"/>
+	<image src="arquitectura_img_novedades/2.jpg" desc="Presentación de libro" ampliacion="En la XIII Bienal de Arquitectura de Buenos Aires, que se desarrolla en el Centro Cultural Recoleta, se presentó el Libro de la Bienal de Arquitectura de Buenos Aires. La decana Mónica Fernández colaboró como autora del artículo “Jorge Glusberg: innovación, inclusión y difusión”." link="El camino mas corto a tu primer empleo"/>
+	<image src="arquitectura_img_novedades/3.jpg" desc="Concurso de Grafiti y Arte Urbano" ampliacion="Esta organizado por la dirección de Cultura de esta Universidad. Cuenta con el auspicio de grandes empresas y organizaciones dedicadas al arte." link="71 Convenmios de Doble Diploma"/>
+	<image src="arquitectura_img_novedades/4.jpg" desc="Noviembre / Diciembre: Tiempo de Entregas..." ampliacion="Entrega de Diseño 5 de los alumnos Cenoz, Victoria Crivelli, María Marta, Mangiantini Nicolás
+" link="71 Convenmios de Doble Diploma"/>
+	<image src="arquitectura_img_novedades/5.jpg" desc="Noviembre / Diciembre: Tiempo de Entregas..." ampliacion="Entrega de Diseño 5 Ramos Viale, Constanza
+Richmond, María Emilia
+Schiacchitano, Francesca" link="150 Convenios con Empresas"/>
+</slideshow>
